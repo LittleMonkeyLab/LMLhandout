@@ -1,11 +1,11 @@
 ---
-title: "Probability"
-subtitle: "PS"
-affiliation: "Stat 20"
+title: "Deception Handout"
+subtitle: "StuntLecture"
+affiliation: "LittleMonkeyLab"
 format: stat20handout-pdf
 ---
 
-This is an example of a document in the `stat20handout` format. It is designed for handouts that students will write on, therefore it maximizes writing space with a small title block, smaller font, and slimmer margins.
+This is an example of a document in the `LMLhandout` format. It is designed for handouts that students will write on, therefore it maximizes writing space with a small title block, smaller font, and slimmer margins.
 
 How it works:
 
